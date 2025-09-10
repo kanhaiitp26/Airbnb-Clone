@@ -1,5 +1,7 @@
 Airbnb Clone - MERN Stack Project
 
+link: https://drive.google.com/file/d/10RalK9iaIojavDrQ3vE7rrUFyV-q9NVh/view?usp=sharing
+
 Overview:
 This project is a full-stack Airbnb clone built using the MERN stack (MongoDB, Express.js, React.js, Node.js). 
 It allows users to browse listings, view property details, add their own listings, and book stays. 
